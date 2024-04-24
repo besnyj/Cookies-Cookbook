@@ -1,0 +1,14 @@
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook.deps.json
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook.runtimeconfig.json
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook.dll
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook.pdb
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.AssemblyInfoInputs.cache
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.AssemblyInfo.cs
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.csproj.CoreCompileInputs.cache
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.dll
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/refint/CookiesCookbook.dll
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.pdb
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.genruntimeconfig.cache
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/ref/CookiesCookbook.dll
