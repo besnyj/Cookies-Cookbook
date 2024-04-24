@@ -12,3 +12,4 @@
 /Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.pdb
 /Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.genruntimeconfig.cache
 /Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/ref/CookiesCookbook.dll
+/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.sourcelink.json

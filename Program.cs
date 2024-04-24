@@ -1,7 +1,4 @@
-﻿foreach (var ingredient in AllIngredients.AllIngredientsList)
-{
-    Console.WriteLine($"{(int)ingredient.Id+1}. {ingredient.Name}. {ingredient.Preparing()}");
-}
+﻿Start.StartProgram();
 
 public enum IngredientsId
 {
@@ -72,6 +69,14 @@ public static class AllIngredients
         new Chocolate(),
         new Cinnamon()
     };
+
+    public static void PrintIngredients()
+    {
+        foreach (var ingredient in AllIngredientsList)
+        {
+            Console.WriteLine($"{(int)ingredient.Id+1}. {ingredient.Name}");
+        }
+    }
 }
 public class Recipe
 {
@@ -89,7 +94,7 @@ public class Recipe
         string userChoice;
         do
         {
-            Console.WriteLine("Select ingredient ID");
+            Console.WriteLine("Add an ingredient by it's Id or type anything else if finished.");
             userChoice = Console.ReadLine();
 
             switch (int.Parse(userChoice))
@@ -110,5 +115,15 @@ public class Recipe
         } while (int.Parse(userChoice) < Ingredient.NumberOfIngredients);
 
         var newRecipe = new Recipe(ingredientsList);
+    }
+}
+
+public static class Start
+{
+    public static void StartProgram()
+    {
+        Console.WriteLine("Create a new recipe! Available ingredients are: ");
+        AllIngredients.PrintIngredients();
+        Recipe.CreateRecipe();
     }
 }
