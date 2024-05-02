@@ -13,3 +13,18 @@
 /Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.genruntimeconfig.cache
 /Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/ref/CookiesCookbook.dll
 /Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.sourcelink.json
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/obj/Debug/net8.0/CookiesCookbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/obj/Debug/net8.0/CookiesCookbook.AssemblyInfoInputs.cache
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/obj/Debug/net8.0/CookiesCookbook.AssemblyInfo.cs
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/obj/Debug/net8.0/CookiesCookbook.csproj.CoreCompileInputs.cache
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/obj/Debug/net8.0/CookiesCookbook.sourcelink.json
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/obj/Debug/net8.0/CookiesCookbook.dll
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/obj/Debug/net8.0/refint/CookiesCookbook.dll
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/obj/Debug/net8.0/CookiesCookbook.pdb
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/bin/Debug/net8.0/CookiesCookbook
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/bin/Debug/net8.0/CookiesCookbook.deps.json
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/bin/Debug/net8.0/CookiesCookbook.runtimeconfig.json
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/bin/Debug/net8.0/CookiesCookbook.dll
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/bin/Debug/net8.0/CookiesCookbook.pdb
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/obj/Debug/net8.0/CookiesCookbook.genruntimeconfig.cache
+/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/obj/Debug/net8.0/ref/CookiesCookbook.dll

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/besnyj/.nuget/packages/": {}
+    "/Users/felipe/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/CookiesCookbook.csproj",
+      "projectUniqueName": "/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/CookiesCookbook.csproj",
       "projectName": "CookiesCookbook",
-      "projectPath": "/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/CookiesCookbook.csproj",
-      "packagesPath": "/Users/besnyj/.nuget/packages/",
-      "outputPath": "/Users/besnyj/Desktop/Projeto Murilo/CookiesCookbook/CookiesCookbook/obj/",
+      "projectPath": "/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/CookiesCookbook.csproj",
+      "packagesPath": "/Users/felipe/.nuget/packages/",
+      "outputPath": "/Users/felipe/Desktop/C#Projects/Cookies-Cookbook/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/besnyj/.nuget/NuGet/NuGet.Config"
+        "/Users/felipe/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/felipe/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
