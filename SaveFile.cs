@@ -11,5 +11,7 @@ public class SaveFile
 
     public static void Txt(Recipe recipe)
     {
+        string recipeTxt = recipe.ToString();
+        File.AppendAllText(FileName, $"\n{recipeTxt}");
     }
 }
