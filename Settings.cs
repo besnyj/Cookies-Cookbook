@@ -2,5 +2,6 @@ namespace CookiesCookbook;
 
 public static class Settings
 {
-    const string FileName = "recipes";
+    public const string FileName = "recipes";
+    public const string SaveOption = "Json";
 }

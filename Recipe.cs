@@ -43,7 +43,9 @@ public class Recipe
             Ingredients = ingredientsList
         };
 
-        SaveFile.Json(newRecipe);
+        SaveFile.Save(newRecipe);
+        
+        Console.WriteLine("Recipe Saved");
 
     }
 }

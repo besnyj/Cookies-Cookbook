@@ -1,17 +1,22 @@
 using System.Text.Json;
+using CookiesCookbook;
 
 public class SaveFile
 {
-    private const string FileName = "recipes.json";
-    public static void Json(Recipe recipe)
-    {
-        string recipeJson = JsonSerializer.Serialize(recipe);
-        File.AppendAllText(FileName, $"\n{recipeJson}");
-    }
+    private const string FileName = "recipes";
 
-    public static void Txt(Recipe recipe)
+    public static void Save(Recipe recipe)
     {
-        string recipeTxt = recipe.ToString();
-        File.AppendAllText(FileName, $"\n{recipeTxt}");
+        switch (Settings.SaveOption)
+        {
+            case "Txt":
+                string recipeJson = JsonSerializer.Serialize(recipe);
+                File.AppendAllText(FileName + ".json", $"\n{recipeJson}");
+                break;
+            case "Json":
+                string recipeTxt = recipe.ToString();
+                File.AppendAllText(FileName + ".txt", $"\n{recipeTxt}");
+                break;
+        }
     }
 }
