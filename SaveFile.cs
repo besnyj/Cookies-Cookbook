@@ -8,11 +8,11 @@ public class SaveFile
     {
         switch (Settings.SaveOption)
         {
-            case "Txt":
+            case "Json":
                 string recipeJson = JsonSerializer.Serialize(recipe);
                 File.AppendAllText(Settings.FileName + ".json", $"\n{recipeJson}");
                 break;
-            case "Json":
+            case "Txt":
                 string recipeTxt = recipe.ToString();
                 File.AppendAllText(Settings.FileName + ".txt", $"\n{recipeTxt}");
                 break;

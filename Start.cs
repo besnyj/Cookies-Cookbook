@@ -5,6 +5,7 @@ public static class Start
     public static void StartProgram()
     {
         ReadFile.ReadTxt();
+        ReadFile.ReadJson();
         Console.WriteLine("Create a new recipe! Available ingredients are: ");
         AllIngredients.PrintIngredients();
         Recipe.CreateRecipe();
